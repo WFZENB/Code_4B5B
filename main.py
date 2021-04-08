@@ -59,7 +59,6 @@ class Win(QMainWindow):
 
 
 # Инициализация окна приложения
-# msg.test() #test
 app = QApplication(sys.argv)
 win = Win()
 win.setWindowTitle('Msg')
